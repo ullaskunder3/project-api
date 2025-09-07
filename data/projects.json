@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "title": "kakehashi: Japanese Social Media Influencer Platform",
+    "slug": "japanese-social-media-influencer-platform",
+    "summary": "A comprehensive platform connecting brands with Japanese social media influencers, featuring AI-powered analytics and multi-platform integration.",
+    "date": "2023",
+    "coverImage": "/images/projects/japan-sns.webp",
+    "tags": [
+      "Vite",
+      "React",
+      "TypeScript",
+      "TikTok API",
+      "YouTube API",
+      "Instagram API",
+      "AI Analytics"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "ullaskunder.tech: Personal Developer Portfolio",
+    "slug": "ullaskunder-portfolio",
+    "summary": "A thoughtfully crafted portfolio showcasing my developer journey, skills, and projects, featuring elegant design, dynamic content, and subtle micro-interactions.",
+    "date": "2024",
+    "coverImage": "/images/projects/ullaskunder-banner.webp",
+    "tags": [
+      "Next.js",
+      "TypeScript",
+      "TailwindCSS",
+      "Framer Motion",
+      "GSAP",
+      "MDX",
+      "GitHub API",
+      "Vercel",
+      "Nodemailer"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "React Native Social Platform for Travelers",
+    "slug": "react-native-social-platform",
+    "summary": "A cross-platform mobile application connecting travelers worldwide, featuring modern UI and interactive social features.",
+    "date": "2022",
+    "coverImage": "/images/projects/motofello-mockup.webp",
+    "tags": [
+      "React Native",
+      "JavaScript",
+      "iOS",
+      "Android",
+      "React Hook Form",
+      "Firebase"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Construction Website",
+    "slug": "construction-website",
+    "summary": "A high-performance construction company website built with Next.js, featuring SEO optimization and WordPress integration.",
+    "date": "2021",
+    "coverImage": "/images/projects/builders-bridge-mock.webp",
+    "tags": [
+      "Next.js",
+      "ISR",
+      "SSG",
+      "WordPress",
+      "JSON-LD",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Zeus Theme (Visual Studio Code Extension)",
+    "slug": "zeus-theme",
+    "summary": "A visually appealing VS Code theme extension that enhances coding readability and developer experience.",
+    "date": "2021",
+    "coverImage": "/images/projects/zeus-theme-banner.webp",
+    "tags": [
+      "Node.js",
+      "Yeoman CLI",
+      "JavaScript",
+      "Git"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Tweety-create (Npm CLI Tool)",
+    "slug": "tweety-create",
+    "summary": "A command-line tool that automates project setup and enforces best practices, designed for students and beginners.",
+    "date": "2020",
+    "coverImage": "/images/projects/tweety-create-banner.webp",
+    "tags": [
+      "Node.js",
+      "Git",
+      "GitHub",
+      "npm"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Anzen Micro SaaS",
+    "slug": "anzen-micro-saas",
+    "summary": "A cryptographic image protection solution that safeguards sensitive digital memories using advanced encryption techniques.",
+    "date": "2023",
+    "coverImage": "/images/projects/anzen-banner.webp",
+    "tags": [
+      "Next.js",
+      "Tailwind CSS",
+      "Vercel",
+      "Google Cloud",
+      "MongoDB"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "E-Commerce eccart Maintenance Project",
+    "slug": "maintenance-project",
+    "summary": "Refactored and modernized legacy code for a client application, implementing new features and improving overall performance.",
+    "date": "2022",
+    "coverImage": "/images/projects/maintenance.webp",
+    "tags": [
+      "Vue.js",
+      "JavaScript",
+      "CSS",
+      "REST API"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "SwidoMark: Minimal SvelteKit Markdown Editor",
+    "slug": "swidomark-markdown-editor",
+    "summary": "A lightweight live Markdown editor built with SvelteKit and Tauri, featuring instant preview, clipboard support, and local storage persistence.",
+    "date": "2025",
+    "coverImage": "/images/projects/swidomark-cover.webp",
+    "tags": [
+      "SvelteKit",
+      "Vite",
+      "TypeScript",
+      "Tauri",
+      "Markdown",
+      "GitHub Flavored Markdown"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "My Awesome Project",
+    "slug": "my-awesome-project",
+    "summary": "Short summary",
+    "date": "2025-09-07",
+    "coverImage": "/images/projects/awesome.webp",
+    "tags": [
+      "React",
+      "Node"
+    ]
+  }
+]
