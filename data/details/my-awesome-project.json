@@ -10,7 +10,7 @@
         "React",
         "Node"
     ],
-    "coverImage": "/images/projects/awesome.webp",
+    "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/awesome.webp",
     "images": [],
     "date": "2025-09-07",
     "role": "",

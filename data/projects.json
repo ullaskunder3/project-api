@@ -5,7 +5,7 @@
     "slug": "japanese-social-media-influencer-platform",
     "summary": "A comprehensive platform connecting brands with Japanese social media influencers, featuring AI-powered analytics and multi-platform integration.",
     "date": "2023",
-    "coverImage": "/images/projects/japan-sns.webp",
+    "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/japan-sns.webp",
     "tags": [
       "Vite",
       "React",
@@ -22,7 +22,7 @@
     "slug": "ullaskunder-portfolio",
     "summary": "A thoughtfully crafted portfolio showcasing my developer journey, skills, and projects, featuring elegant design, dynamic content, and subtle micro-interactions.",
     "date": "2024",
-    "coverImage": "/images/projects/ullaskunder-banner.webp",
+    "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/ullaskunder-banner.webp",
     "tags": [
       "Next.js",
       "TypeScript",
@@ -41,7 +41,7 @@
     "slug": "react-native-social-platform",
     "summary": "A cross-platform mobile application connecting travelers worldwide, featuring modern UI and interactive social features.",
     "date": "2022",
-    "coverImage": "/images/projects/motofello-mockup.webp",
+    "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/motofello-mockup.webp",
     "tags": [
       "React Native",
       "JavaScript",
@@ -57,7 +57,7 @@
     "slug": "construction-website",
     "summary": "A high-performance construction company website built with Next.js, featuring SEO optimization and WordPress integration.",
     "date": "2021",
-    "coverImage": "/images/projects/builders-bridge-mock.webp",
+    "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/builders-bridge-mock.webp",
     "tags": [
       "Next.js",
       "ISR",
@@ -73,7 +73,7 @@
     "slug": "zeus-theme",
     "summary": "A visually appealing VS Code theme extension that enhances coding readability and developer experience.",
     "date": "2021",
-    "coverImage": "/images/projects/zeus-theme-banner.webp",
+    "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/zeus-theme-banner.webp",
     "tags": [
       "Node.js",
       "Yeoman CLI",
@@ -87,7 +87,7 @@
     "slug": "tweety-create",
     "summary": "A command-line tool that automates project setup and enforces best practices, designed for students and beginners.",
     "date": "2020",
-    "coverImage": "/images/projects/tweety-create-banner.webp",
+    "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/tweety-create-banner.webp",
     "tags": [
       "Node.js",
       "Git",
@@ -101,7 +101,7 @@
     "slug": "anzen-micro-saas",
     "summary": "A cryptographic image protection solution that safeguards sensitive digital memories using advanced encryption techniques.",
     "date": "2023",
-    "coverImage": "/images/projects/anzen-banner.webp",
+    "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/anzen-banner.webp",
     "tags": [
       "Next.js",
       "Tailwind CSS",
@@ -116,7 +116,7 @@
     "slug": "maintenance-project",
     "summary": "Refactored and modernized legacy code for a client application, implementing new features and improving overall performance.",
     "date": "2022",
-    "coverImage": "/images/projects/maintenance.webp",
+    "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/maintenance.webp",
     "tags": [
       "Vue.js",
       "JavaScript",
@@ -130,7 +130,7 @@
     "slug": "swidomark-markdown-editor",
     "summary": "A lightweight live Markdown editor built with SvelteKit and Tauri, featuring instant preview, clipboard support, and local storage persistence.",
     "date": "2025",
-    "coverImage": "/images/projects/swidomark-cover.webp",
+    "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/swidomark-cover.webp",
     "tags": [
       "SvelteKit",
       "Vite",
@@ -146,7 +146,7 @@
     "slug": "my-awesome-project",
     "summary": "Short summary",
     "date": "2025-09-07",
-    "coverImage": "/images/projects/awesome.webp",
+    "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/awesome.webp",
     "tags": [
       "React",
       "Node"
