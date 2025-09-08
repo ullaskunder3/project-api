@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "featured": false,
+        "slug": "japanese-social-media-influencer-platform",
+        "title": "kakehashi: Japanese Social Media Influencer Platform",
+        "summary": "A comprehensive platform connecting brands with Japanese social media influencers, featuring AI-powered analytics and multi-platform integration.",
+        "achievements": [
+            "Built the entire UI app with a public-facing interface and influencer-facing UI, integrating robust AI and APIs.",
+            "Connected the platform with social platforms like TikTok, Google YouTube, and Instagram.",
+            "Created public-facing modern and informative analytics for the company to identify the best-fit influencers.",
+            "Documented each platform's analytic approach, explaining why and how it was implemented.",
+            "Developed a flow for stakeholders to understand the platform.",
+            "Managed social media API access requests and documentation from official platforms."
+        ],
+        "websiteUrl": "https://app.kakehashi-jp.com/",
+        "technologies": [
+            "Vite",
+            "React",
+            "TypeScript",
+            "TikTok API",
+            "YouTube API",
+            "Instagram API",
+            "AI Analytics"
+        ],
+        "coverImage": "/images/projects/japan-sns.webp",
+        "images": [
+            {
+                "url": "/images/projects/japan-sns-register.webp",
+                "alt": "App register view"
+            },
+            {
+                "url": "/images/projects/japan-sns-search.webp",
+                "alt": "Influencer search page"
+            },
+            {
+                "url": "/images/projects/japan-sns-search-filter.webp",
+                "alt": "Influencer filter page"
+            }
+        ],
+        "date": "2023",
+        "role": "Lead Frontend Developer",
+        "description": [
+            {
+                "type": "paragraph",
+                "content": "This platform serves as a bridge between Japanese brands and social media influencers, providing comprehensive analytics and insights to facilitate effective partnerships."
+            },
+            {
+                "type": "paragraph",
+                "content": "The application features two distinct interfaces:"
+            },
+            {
+                "type": "list",
+                "items": [
+                    {
+                        "text": "Public-facing interface: Allows brands to discover and connect with relevant influencers based on their specific needs and target audience."
+                    },
+                    {
+                        "text": "Influencer-facing UI: Enables influencers to manage their profiles, track performance metrics, and engage with brand opportunities."
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "A key technical achievement was the integration with multiple social media platforms, each with their own unique API requirements and authentication flows. This required careful planning and implementation to ensure seamless data flow and consistent user experience."
+            },
+            {
+                "type": "paragraph",
+                "content": "The analytics dashboard provides actionable insights through visualizations and AI-powered recommendations, helping brands identify the most suitable influencers for their campaigns based on audience demographics, engagement rates, and content performance."
+            }
+        ]
+    }
+]
