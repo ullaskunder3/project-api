@@ -16,14 +16,14 @@
         "CSS",
         "REST API"
     ],
-    "coverImage": "/images/projects/maintenance.webp",
+    "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/maintenance.webp",
     "images": [
         {
-            "url": "/images/projects/eccart.webp",
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/eccart.webp",
             "alt": "E-Commerce eccart application dashboard"
         },
         {
-            "url": "/images/projects/eccart1.webp",
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/eccart1.webp",
             "alt": "E-Commerce eccart checkout and product view"
         }
     ],

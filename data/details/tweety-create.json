@@ -14,14 +14,14 @@
         "GitHub",
         "npm"
     ],
-    "coverImage": "/images/projects/tweety-create-banner.webp",
+    "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/tweety-create-banner.webp",
     "images": [
         {
-            "url": "/images/projects/tweety-create-command-execute.webp",
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/tweety-create-command-execute.webp",
             "alt": "Tweety-create CLI command execution"
         },
         {
-            "url": "/images/projects/tweety-create-published-npm.webp",
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/tweety-create-published-npm.webp",
             "alt": "Tweety-create package published on npm"
         }
     ],

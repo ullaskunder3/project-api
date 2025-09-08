@@ -14,14 +14,14 @@
         "JavaScript",
         "Git"
     ],
-    "coverImage": "/images/projects/zeus-theme-banner.webp",
+    "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/zeus-theme-banner.webp",
     "images": [
         {
-            "url": "/images/projects/zeus-theme-1.webp",
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/zeus-theme-1.webp",
             "alt": "Zeus Theme code preview"
         },
         {
-            "url": "/images/projects/zeus-theme-extension.webp",
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/zeus-theme-extension.webp",
             "alt": "Zeus Theme extension in VS Code Marketplace"
         }
     ],

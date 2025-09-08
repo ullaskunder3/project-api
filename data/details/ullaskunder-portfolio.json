@@ -28,22 +28,22 @@
         "Vercel",
         "Nodemailer"
     ],
-    "coverImage": "/images/projects/ullaskunder-banner.webp",
+    "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/ullaskunder-banner.webp",
     "images": [
         {
-            "url": "/images/projects/ullaskunder-skill.webp",
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/ullaskunder-skill.webp",
             "alt": "Homepage with animated hero"
         },
         {
-            "url": "/images/projects/ullaskunder-contact.webp",
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/ullaskunder-contact.webp",
             "alt": "Projects section grid view"
         },
         {
-            "url": "/images/projects/ullaskunder-cool.webp",
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/ullaskunder-cool.webp",
             "alt": "Contact form with Gmail integration"
         },
         {
-            "url": "/images/projects/ullaskunder-discuss-page.webp",
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/ullaskunder-discuss-page.webp",
             "alt": "Guestbook feature for community discussions"
         }
     ],

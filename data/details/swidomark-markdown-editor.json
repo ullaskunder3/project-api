@@ -21,14 +21,14 @@
         "Markdown",
         "GitHub Flavored Markdown (planned)"
     ],
-    "coverImage": "/images/projects/swidomark-cover.webp",
+    "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/swidomark-cover.webp",
     "images": [
         {
-            "url": "/images/projects/swidomark-editor.webp",
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/swidomark-editor.webp",
             "alt": "SwidoMark live Markdown editor with instant preview"
         },
         {
-            "url": "/images/projects/swidomark-darkmode.webp",
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/swidomark-darkmode.webp",
             "alt": "SwidoMark Markdown editor dark mode interface"
         }
     ],

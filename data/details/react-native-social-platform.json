@@ -18,14 +18,14 @@
         "React Hook Form",
         "Firebase"
     ],
-    "coverImage": "/images/projects/motofello-mockup.webp",
+    "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/motofello-mockup.webp",
     "images": [
         {
-            "url": "/images/projects/motofellow-app-android.webp",
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/motofellow-app-android.webp",
             "alt": "User profile screen"
         },
         {
-            "url": "/images/projects/motofellow-app-ios.webp",
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/motofellow-app-ios.webp",
             "alt": "Feed with horizontal scrolling"
         }
     ],
