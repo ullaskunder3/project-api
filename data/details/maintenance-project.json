@@ -1,6 +1,63 @@
 {
-    "project_name": "",
-    "description": "",
-    "version": "1.0.0",
-    "details": {}
+    "id": 8,
+    "featured": false,
+    "slug": "maintenance-project",
+    "title": "E-Commerce eccart Maintenance Project",
+    "summary": "Refactored and modernized legacy code for a client application, implementing new features and improving overall performance.",
+    "achievements": [
+        "Refactored old code and updated broken flows to modern approaches.",
+        "Implemented new feature requests from clients.",
+        "Successfully delivered the project on time, following best practices and communicating effectively with clients and QA teams."
+    ],
+    "websiteUrl": "https://transit-eccart.com/",
+    "technologies": [
+        "Vue.js",
+        "JavaScript",
+        "CSS",
+        "REST API"
+    ],
+    "coverImage": "/images/projects/maintenance.webp",
+    "images": [
+        {
+            "url": "/images/projects/eccart.webp",
+            "alt": "E-Commerce eccart application dashboard"
+        },
+        {
+            "url": "/images/projects/eccart1.webp",
+            "alt": "E-Commerce eccart checkout and product view"
+        }
+    ],
+    "date": "2022",
+    "role": "Frontend Developer",
+    "description": [
+        {
+            "type": "paragraph",
+            "content": "This project involved the maintenance and modernization of a legacy application that had accumulated technical debt over time. The client needed to update the system to support new business requirements while improving performance and user experience."
+        },
+        {
+            "type": "paragraph",
+            "content": "Key challenges included:"
+        },
+        {
+            "type": "list",
+            "items": [
+                {
+                    "text": "Working with poorly documented legacy code"
+                },
+                {
+                    "text": "Maintaining backward compatibility while introducing modern approaches"
+                },
+                {
+                    "text": "Implementing new features without disrupting existing functionality"
+                },
+                {
+                    "text": "Meeting tight deadlines while ensuring code quality"
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": "Through careful planning and systematic refactoring, we were able to modernize the codebase, fix broken workflows, and implement new features requested by the client. The project was delivered on time and met all requirements, resulting in improved performance and user satisfaction."
+        }
+    ]
 }

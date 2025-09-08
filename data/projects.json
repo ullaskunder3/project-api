@@ -148,18 +148,5 @@
       "Markdown",
       "GitHub Flavored Markdown"
     ]
-  },
-  {
-    "id": 10,
-    "title": "My Awesome Project",
-    "slug": "my-awesome-project",
-    "summary": "Short summary",
-    "date": "2025-09-07",
-    "featured": false,
-    "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/awesome.webp",
-    "tags": [
-      "React",
-      "Node"
-    ]
   }
 ]

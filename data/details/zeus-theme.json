@@ -1,6 +1,67 @@
 {
-    "project_name": "",
-    "description": "",
-    "version": "1.0.0",
-    "details": {}
+    "id": 5,
+    "featured": false,
+    "slug": "zeus-theme",
+    "title": "Zeus Theme (Visual Studio Code Extension)",
+    "summary": "A visually appealing VS Code theme extension that enhances coding readability and developer experience.",
+    "achievements": [
+        "Enhanced coding experience by improving readability with visually appealing themes.",
+        "Published \"Zeus Theme\" on the Visual Studio Code Marketplace, receiving positive feedback."
+    ],
+    "technologies": [
+        "Node.js",
+        "Yeoman CLI",
+        "JavaScript",
+        "Git"
+    ],
+    "coverImage": "/images/projects/zeus-theme-banner.webp",
+    "images": [
+        {
+            "url": "/images/projects/zeus-theme-1.webp",
+            "alt": "Zeus Theme code preview"
+        },
+        {
+            "url": "/images/projects/zeus-theme-extension.webp",
+            "alt": "Zeus Theme extension in VS Code Marketplace"
+        }
+    ],
+    "date": "2021",
+    "role": "Developer",
+    "githubUrl": "https://github.com/ullaskunder3/zeus-theme",
+    "websiteUrl": "https://marketplace.visualstudio.com/items?itemName=UllasKunder.zeus-vscode-theme",
+    "description": [
+        {
+            "type": "paragraph",
+            "content": "Zeus Theme is a Visual Studio Code extension designed to enhance the coding experience through carefully crafted color schemes that improve readability and reduce eye strain during long coding sessions."
+        },
+        {
+            "type": "paragraph",
+            "content": "The theme was developed using Node.js and the Yeoman CLI for scaffolding, with a focus on creating a balanced color palette that highlights syntax without being distracting. The extension has been published on the Visual Studio Code Marketplace and has received positive feedback from users."
+        },
+        {
+            "type": "paragraph",
+            "content": "Key features of the Zeus Theme include:"
+        },
+        {
+            "type": "list",
+            "items": [
+                {
+                    "text": "Carefully selected color palette for optimal contrast and readability"
+                },
+                {
+                    "text": "Special attention to syntax highlighting for popular programming languages"
+                },
+                {
+                    "text": "Dark and light variants to suit different environments and preferences"
+                },
+                {
+                    "text": "Custom UI elements that complement the syntax highlighting"
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": "This project demonstrates my ability to create developer tools that enhance productivity and user experience, as well as my understanding of the importance of visual design in development environments."
+        }
+    ]
 }

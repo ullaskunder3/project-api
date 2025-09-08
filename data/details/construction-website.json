@@ -1,6 +1,77 @@
 {
-    "project_name": "",
-    "description": "",
-    "version": "1.0.0",
-    "details": {}
+  "id": 4,
+  "featured": true,
+  "slug": "construction-website",
+  "title": "Construction Website",
+  "summary": "A high-performance construction company website built with Next.js, featuring SEO optimization and WordPress integration.",
+  "achievements": [
+    "Built an entire construction website within four days, featuring seven pages.",
+    "Created and documented custom SEO components using Next.js page router with JSON-LD.",
+    "Integrated WordPress for blog and content fetching.",
+    "Improved Figma designs based on intuition and principles approved by the designer."
+  ],
+  "technologies": [
+    "Next.js",
+    "ISR",
+    "SSG",
+    "WordPress",
+    "JSON-LD",
+    "Tailwind CSS"
+  ],
+  "coverImage": "/images/projects/builders-bridge-mock.webp",
+  "images": [
+    {
+      "url": "/images/projects/builders-bridge-hero-section.webp",
+      "alt": "Homepage hero section"
+    },
+    {
+      "url": "/images/projects/buildersbridge-full-desktop.webp",
+      "alt": "Projects showcase"
+    },
+    {
+      "url": "/images/projects/builders-bridge-custom-contact.webp",
+      "alt": "Custom contact form"
+    }
+  ],
+  "date": "2021",
+  "role": "Frontend Developer",
+  "websiteUrl": "https://builder-bridge.vercel.app/",
+  "description": [
+    {
+      "type": "paragraph",
+      "content": "This construction company website was developed in just four days, demonstrating rapid development capabilities while maintaining high quality and performance standards. The site consists of seven fully responsive pages that effectively showcase the company's services, projects, and expertise."
+    },
+    {
+      "type": "paragraph",
+      "content": "A key focus of this project was SEO optimization, which was achieved through:"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "text": "Custom SEO components with JSON-LD structured data"
+        },
+        {
+          "text": "Next.js static site generation (SSG) for core pages"
+        },
+        {
+          "text": "Incremental Static Regeneration (ISR) for dynamic content"
+        },
+        {
+          "text": "Optimized meta tags and semantic HTML structure"
+        },
+        {
+          "text": "Performance optimization for Core Web Vitals"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "The website features WordPress integration for blog content and easy content management, allowing the client to update their portfolio and blog without developer intervention. This hybrid approach combines the performance benefits of Next.js with the content management flexibility of WordPress."
+    },
+    {
+      "type": "paragraph",
+      "content": "During development, I also contributed to improving the original Figma designs, suggesting enhancements that were approved by the design team and implemented in the final product."
+    }
+  ]
 }

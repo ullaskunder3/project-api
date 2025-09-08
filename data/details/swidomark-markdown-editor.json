@@ -1,6 +1,72 @@
 {
-    "project_name": "",
-    "description": "",
-    "version": "1.0.0",
-    "details": {}
+    "id": 9,
+    "featured": false,
+    "slug": "swidomark-markdown-editor",
+    "title": "SwidoMark: Minimal SvelteKit Markdown Editor",
+    "summary": "A lightweight live Markdown editor built with SvelteKit and Tauri, featuring instant preview, clipboard support, and local storage persistence.",
+    "achievements": [
+        "Implemented live Markdown editing with real-time preview.",
+        "Added clipboard integration for quick copy-paste workflows.",
+        "Built cross-platform desktop support using Tauri for faster, lightweight performance compared to Electron.",
+        "Designed a clean, distraction-free editor interface.",
+        "Integrated local storage to persist editing sessions.",
+        "Experimented with light/dark mode and semi-transparent UI options."
+    ],
+    "websiteUrl": "https://github.com/ullaskunder3/swidomark",
+    "technologies": [
+        "SvelteKit",
+        "Vite",
+        "TypeScript",
+        "Tauri",
+        "Markdown",
+        "GitHub Flavored Markdown (planned)"
+    ],
+    "coverImage": "/images/projects/swidomark-cover.webp",
+    "images": [
+        {
+            "url": "/images/projects/swidomark-editor.webp",
+            "alt": "SwidoMark live Markdown editor with instant preview"
+        },
+        {
+            "url": "/images/projects/swidomark-darkmode.webp",
+            "alt": "SwidoMark Markdown editor dark mode interface"
+        }
+    ],
+    "date": "2025",
+    "role": "Fullstack Developer",
+    "description": [
+        {
+            "type": "paragraph",
+            "content": "SwidoMark is a minimal live Markdown editor that combines the power of SvelteKit with Tauri for a fast, cross-platform desktop application."
+        },
+        {
+            "type": "paragraph",
+            "content": "The application features:"
+        },
+        {
+            "type": "list",
+            "items": [
+                {
+                    "text": "Instant Markdown-to-HTML rendering with GitHub-flavored Markdown support in progress"
+                },
+                {
+                    "text": "Clipboard integration for smooth copy/paste workflows"
+                },
+                {
+                    "text": "Persistent local storage for seamless editing sessions"
+                },
+                {
+                    "text": "Support for light/dark themes and semi-transparent UI options for a modern look"
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": "A key architectural choice was using Tauri instead of Electron. Tauri apps are significantly lighter, faster, and consume fewer system resources while still providing full native desktop capabilities. This makes SwidoMark more efficient and responsive on all platforms."
+        },
+        {
+            "type": "paragraph",
+            "content": "Designed with minimalism in mind, SwidoMark is aimed at developers and writers who need a distraction-free Markdown editing environment."
+        }
+    ]
 }

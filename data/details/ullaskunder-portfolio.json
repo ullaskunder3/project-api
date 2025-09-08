@@ -1,6 +1,70 @@
 {
-    "project_name": "",
-    "description": "",
-    "version": "1.0.0",
-    "details": {}
+    "id": 2,
+    "featured": true,
+    "slug": "ullaskunder-portfolio",
+    "title": "ullaskunder.tech: Personal Developer Portfolio",
+    "summary": "A thoughtfully crafted portfolio showcasing my developer journey, skills, and projects, featuring elegant design, dynamic content, and subtle micro-interactions.",
+    "achievements": [
+        "Designed and developed a fully responsive portfolio using Next.js App Router and TailwindCSS with a focus on minimalism and clarity.",
+        "Implemented dynamic routing for project details using file-based slugs and MDX rendering.",
+        "Integrated GitHub as a headless CMS for blog posts, fetched via custom API route using Octokit.",
+        "Created animated hero sections, interactive cards, and micro-interactions using GSAP Flip and Framer Motion.",
+        "Added support for dark mode and seamless page transitions through custom layout and navigation components.",
+        "Set up Nodemailer integration with Gmail for secure contact form delivery via serverless API route.",
+        "Incorporated SEO best practices including meta tags, OG images, dynamic sitemap, robots.txt, and structured data.",
+        "Developed a functional guestbook feature for community interaction using serverless functions.",
+        "Enabled RSS feed and feed.xml generation for automatic syndication and dev.to integration.",
+        "Optimized performance through static generation (SSG), lazy loading, and Lighthouse auditing."
+    ],
+    "websiteUrl": "https://ullaskunder.tech/",
+    "technologies": [
+        "Next.js",
+        "TypeScript",
+        "TailwindCSS",
+        "Framer Motion",
+        "GSAP",
+        "MDX",
+        "GitHub API",
+        "Vercel",
+        "Nodemailer"
+    ],
+    "coverImage": "/images/projects/ullaskunder-banner.webp",
+    "images": [
+        {
+            "url": "/images/projects/ullaskunder-skill.webp",
+            "alt": "Homepage with animated hero"
+        },
+        {
+            "url": "/images/projects/ullaskunder-contact.webp",
+            "alt": "Projects section grid view"
+        },
+        {
+            "url": "/images/projects/ullaskunder-cool.webp",
+            "alt": "Contact form with Gmail integration"
+        },
+        {
+            "url": "/images/projects/ullaskunder-discuss-page.webp",
+            "alt": "Guestbook feature for community discussions"
+        }
+    ],
+    "date": "2024",
+    "role": "Designer & Fullstack Developer",
+    "description": [
+        {
+            "type": "paragraph",
+            "content": "This portfolio was built to reflect both my personal aesthetics and technical capabilities. It serves as a living resume, highlighting my key projects, career journey, and current goals — particularly my aspiration to work in Japan 🇯🇵."
+        },
+        {
+            "type": "paragraph",
+            "content": "The site is fully responsive, with smooth animations and transitions powered by Framer Motion and GSAP Flip. All project content is statically generated for performance, while dynamic blog content is fetched from GitHub using a custom API layer and rendered as MDX."
+        },
+        {
+            "type": "paragraph",
+            "content": "Additional features include a guestbook for user interaction, a secure contact form integrated via Nodemailer and Gmail, and full SEO setup including meta tags, OG images, sitemap, and robots.txt. A custom RSS feed and feed.xml are also generated for blog syndication and integration with dev.to."
+        },
+        {
+            "type": "paragraph",
+            "content": "Overall, this project is a culmination of everything I’ve learned — from frontend polish to API design — and a canvas for experimenting with new technologies and systems."
+        }
+    ]
 }

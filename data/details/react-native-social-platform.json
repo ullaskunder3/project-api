@@ -1,6 +1,79 @@
 {
-    "project_name": "",
-    "description": "",
-    "version": "1.0.0",
-    "details": {}
+    "id": 3,
+    "featured": true,
+    "slug": "react-native-social-platform",
+    "title": "React Native Social Platform for Travelers",
+    "summary": "A cross-platform mobile application connecting travelers worldwide, featuring modern UI and interactive social features.",
+    "achievements": [
+        "Built a small social platform for travelers, deploying it on both the Play Store and App Store (with senior guidance).",
+        "Updated the UI to a modern approach, consolidating old profile pages into a single, clean version for both iOS and Android.",
+        "Implemented features like double-click to like, horizontal scroll feed images, pinch zoom, and a custom feedback form using React Hook Form.",
+        "Created a custom component for a sticky toolbar for keyboard in React Native, ensuring compatibility with both iOS and Android."
+    ],
+    "technologies": [
+        "React Native",
+        "JavaScript",
+        "iOS",
+        "Android",
+        "React Hook Form",
+        "Firebase"
+    ],
+    "coverImage": "/images/projects/motofello-mockup.webp",
+    "images": [
+        {
+            "url": "/images/projects/motofellow-app-android.webp",
+            "alt": "User profile screen"
+        },
+        {
+            "url": "/images/projects/motofellow-app-ios.webp",
+            "alt": "Feed with horizontal scrolling"
+        }
+    ],
+    "date": "2022",
+    "role": "Mobile Developer",
+    "websiteUrl": "https://play.google.com/store/apps/details?id=com.motofellow.app&hl=en_IN",
+    "websiteUrlIos": "https://apps.apple.com/jp/app/motofellow/id6448129606?l=en-US",
+    "description": [
+        {
+            "type": "paragraph",
+            "content": "This React Native application serves as a social platform specifically designed for travelers to connect, share experiences, and discover new destinations. The app was successfully deployed to both the Play Store and App Store."
+        },
+        {
+            "type": "paragraph",
+            "content": "A significant achievement was the UI modernization, which involved consolidating multiple profile pages into a single, cohesive interface that works seamlessly across both iOS and Android platforms. This improved user experience and reduced code maintenance overhead."
+        },
+        {
+            "type": "paragraph",
+            "content": "The application features several interactive elements that enhance user engagement:"
+        },
+        {
+            "type": "list",
+            "items": [
+                {
+                    "text": "Double-tap to like posts"
+                },
+                {
+                    "text": "Horizontal scrolling for feed images"
+                },
+                {
+                    "text": "Pinch-to-zoom functionality for photos"
+                },
+                {
+                    "text": "Custom feedback form with validation"
+                },
+                {
+                    "text": "Sticky keyboard toolbar that works consistently across platforms"
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": "The custom keyboard toolbar component was particularly challenging to implement due to the differences in keyboard behavior between iOS and Android. The solution required careful consideration of platform-specific behaviors and extensive testing to ensure consistent functionality."
+        }
+    ],
+    "testimonial": {
+        "quote": "The app has transformed how our travel community connects. The UI is intuitive and the social features are exactly what our users needed.",
+        "author": "Jane Smith",
+        "role": "Product Manager"
+    }
 }

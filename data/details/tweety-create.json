@@ -1,6 +1,70 @@
 {
-    "project_name": "",
-    "description": "",
-    "version": "1.0.0",
-    "details": {}
+    "id": 6,
+    "featured": false,
+    "slug": "tweety-create",
+    "title": "Tweety-create (Npm CLI Tool)",
+    "summary": "A command-line tool that automates project setup and enforces best practices, designed for students and beginners.",
+    "achievements": [
+        "Created a CLI tool to automate repetitive tasks and simplify project setup, targeting students and beginners.",
+        "Facilitated adherence to best practices, reducing troubleshooting efforts in future development."
+    ],
+    "technologies": [
+        "Node.js",
+        "Git",
+        "GitHub",
+        "npm"
+    ],
+    "coverImage": "/images/projects/tweety-create-banner.webp",
+    "images": [
+        {
+            "url": "/images/projects/tweety-create-command-execute.webp",
+            "alt": "Tweety-create CLI command execution"
+        },
+        {
+            "url": "/images/projects/tweety-create-published-npm.webp",
+            "alt": "Tweety-create package published on npm"
+        }
+    ],
+    "date": "2020",
+    "role": "Developer",
+    "githubUrl": "https://github.com/ullaskunder3/tweety-create",
+    "websiteUrl": "https://www.npmjs.com/package/tweety-create",
+    "description": [
+        {
+            "type": "paragraph",
+            "content": "Tweety-create is an npm CLI tool designed to simplify project setup and enforce best practices, particularly for students and beginners in web development. The tool automates repetitive tasks and provides scaffolding for various types of projects, helping users get started quickly with a solid foundation."
+        },
+        {
+            "type": "paragraph",
+            "content": "The CLI tool offers several templates and configurations that adhere to industry best practices, reducing the likelihood of common issues and the need for troubleshooting later in the development process. By providing a standardized starting point, Tweety-create helps users focus on learning and building rather than configuration."
+        },
+        {
+            "type": "paragraph",
+            "content": "Key features include:"
+        },
+        {
+            "type": "list",
+            "items": [
+                {
+                    "text": "Multiple project templates for different use cases"
+                },
+                {
+                    "text": "Automated setup of Git repositories"
+                },
+                {
+                    "text": "Configuration of linting and formatting tools"
+                },
+                {
+                    "text": "Integration with popular development workflows"
+                },
+                {
+                    "text": "Comprehensive documentation and examples"
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": "This project demonstrates my ability to identify common pain points in the development process and create tools that improve efficiency and promote best practices."
+        }
+    ]
 }

@@ -1,6 +1,67 @@
 {
-    "project_name": "",
-    "description": "",
-    "version": "1.0.0",
-    "details": {}
+  "id": 7,
+  "featured": false,
+  "slug": "anzen-micro-saas",
+  "title": "Anzen Micro SaaS",
+  "summary": "A cryptographic image protection solution that safeguards sensitive digital memories using advanced encryption techniques.",
+  "achievements": [
+    "Developed a cryptographic image protection solution using advanced encryption techniques to safeguard images.",
+    "Positioned as the ideal tool for protecting sensitive digital memories, ensuring secure access."
+  ],
+  "technologies": [
+    "Next.js",
+    "Tailwind CSS",
+    "Vercel",
+    "Google Cloud",
+    "MongoDB"
+  ],
+  "coverImage": "/images/projects/anzen-banner.webp",
+  "images": [
+    {
+      "url": "/images/projects/zeus-theme-1.webp",
+      "alt": "Anzen app encryption interface with secure upload"
+    },
+    {
+      "url": "/images/projects/zeus-theme-extension.webp",
+      "alt": "Protected gallery view with encrypted images in Anzen"
+    }
+  ],
+  "date": "2023",
+  "role": "Full Stack Developer",
+  "websiteUrl": "https://anzen.ullaskunder.tech/",
+  "description": [
+    {
+      "type": "paragraph",
+      "content": "Anzen is a Micro SaaS product that provides cryptographic protection for sensitive digital images. The application uses advanced encryption techniques to ensure that personal and confidential images remain secure and accessible only to authorized users."
+    },
+    {
+      "type": "paragraph",
+      "content": "The solution is particularly valuable for protecting sensitive digital memories, such as:"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "text": "Personal photographs"
+        },
+        {
+          "text": "Identity documents"
+        },
+        {
+          "text": "Medical images"
+        },
+        {
+          "text": "Confidential business documents"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "The application is built on a modern tech stack, including Next.js for the frontend and API routes, Tailwind CSS for styling, and MongoDB for data storage. The encryption processes are handled securely, with keys managed through a robust system that ensures only authorized users can decrypt and access the protected images."
+    },
+    {
+      "type": "paragraph",
+      "content": "This project demonstrates my ability to develop secure applications that handle sensitive data, as well as my understanding of encryption principles and their practical implementation in web applications."
+    }
+  ]
 }
