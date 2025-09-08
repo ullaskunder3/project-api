@@ -1,18 +1,18 @@
 {
-  "id": 10,
-  "featured": false,
-  "slug": "my-awesome-project",
-  "title": "My Awesome Project",
-  "summary": "Short summary",
-  "achievements": [],
-  "websiteUrl": "",
-  "technologies": [
-    "React",
-    "Node"
-  ],
-  "coverImage": "/images/projects/awesome.webp",
-  "images": [],
-  "date": "2025-09-07",
-  "role": "",
-  "description": ""
+    "id": 10,
+    "featured": false,
+    "slug": "my-awesome-project",
+    "title": "My Awesome Project",
+    "summary": "Short summary",
+    "achievements": [],
+    "websiteUrl": "",
+    "technologies": [
+        "React",
+        "Node"
+    ],
+    "coverImage": "/images/projects/awesome.webp",
+    "images": [],
+    "date": "2025-09-07",
+    "role": "",
+    "description": ""
 }

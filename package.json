@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "new-project": "node ./scripts/new-projects.js"
+    "new-project": "node ./scripts/new-projects.js",
+    "update-img-url": "node ./scripts/add-cdn-url.js"
   },
   "keywords": [],
   "author": "",

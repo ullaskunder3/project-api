@@ -23,18 +23,18 @@
             "Instagram API",
             "AI Analytics"
         ],
-        "coverImage": "/images/projects/japan-sns.webp",
+        "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/japan-sns.webp",
         "images": [
             {
-                "url": "/images/projects/japan-sns-register.webp",
+                "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/japan-sns-register.webp",
                 "alt": "App register view"
             },
             {
-                "url": "/images/projects/japan-sns-search.webp",
+                "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/japan-sns-search.webp",
                 "alt": "Influencer search page"
             },
             {
-                "url": "/images/projects/japan-sns-search-filter.webp",
+                "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/japan-sns-search-filter.webp",
                 "alt": "Influencer filter page"
             }
         ],
