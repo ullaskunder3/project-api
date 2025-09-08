@@ -70,10 +70,5 @@
             "type": "paragraph",
             "content": "The custom keyboard toolbar component was particularly challenging to implement due to the differences in keyboard behavior between iOS and Android. The solution required careful consideration of platform-specific behaviors and extensive testing to ensure consistent functionality."
         }
-    ],
-    "testimonial": {
-        "quote": "The app has transformed how our travel community connects. The UI is intuitive and the social features are exactly what our users needed.",
-        "author": "Jane Smith",
-        "role": "Product Manager"
-    }
+    ]
 }
