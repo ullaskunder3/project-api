@@ -57,6 +57,9 @@ if (dateArg) {
   )}-${String(now.getDate()).padStart(2, "0")}`;
 }
 
+const featuredArg = args.find((arg) => arg.startsWith("--featured="));
+const featured = featuredArg ? featuredArg.split("=")[1] === "true" : false;
+
 // --- Generate ID and Slug ---
 const projects = readProjects();
 const slug = slugify(title);
@@ -78,6 +81,7 @@ const newProject = {
   date,
   coverImage,
   tags,
+  featured,
 };
 
 // --- Ensure details directory exists ---
