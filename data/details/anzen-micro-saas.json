@@ -18,12 +18,16 @@
     "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/anzen-banner.webp",
     "images": [
         {
-            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/zeus-theme-1.webp",
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/anzen-demo1.png",
             "alt": "Anzen app encryption interface with secure upload"
         },
         {
-            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/zeus-theme-extension.webp",
-            "alt": "Protected gallery view with encrypted images in Anzen"
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/anzen-demo2.png",
+            "alt": "Anzen app encryption interface with secure upload"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/anzen-demo3.png",
+            "alt": "Anzen app encryption interface with secure upload"
         }
     ],
     "date": "2023",
