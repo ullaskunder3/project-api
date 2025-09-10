@@ -12,7 +12,7 @@ const readProjects = () => {
 };
 
 const writeProjects = (projects) => {
-  fs.writeFileSync(PROJECTS_JSON, JSON.stringify(projects, null, 2), "utf-8");
+  fs.writeFileSync(PROJECTS_JSON, JSON.stringify(projects, null, 4), "utf-8");
 };
 
 const slugify = (title) =>
@@ -108,7 +108,7 @@ const defaultDetail = {
 };
 fs.writeFileSync(
   detailFilePath,
-  JSON.stringify(defaultDetail, null, 2),
+  JSON.stringify(defaultDetail, null, 4),
   "utf-8"
 );
 
