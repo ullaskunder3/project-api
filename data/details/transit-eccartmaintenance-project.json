@@ -1,0 +1,86 @@
+{
+    "id": 8,
+    "featured": false,
+    "slug": "eccart-maintenance-project",
+    "title": "E-Commerce ECCart Maintenance & Modernization",
+    "summary": "Refactored and modernized a legacy client application by improving performance, implementing new features, updating UI, and enhancing the user experience across admin, owner, and customer interfaces.",
+    "achievements": [
+        "Refactored outdated code and improved broken workflows using modern web technologies.",
+        "Updated UI and improved user experience across admin and shop interfaces.",
+        "Integrated updated REST APIs and Firebase services with proper validation.",
+        "Documented the maintenance work and provided structured guidelines for future improvements.",
+        "Implemented new features based on client requirements while ensuring system stability.",
+        "Collaborated with QA and client teams to deliver the project on schedule and meet performance goals."
+    ],
+    "websiteUrl": "https://transit-eccart.com/",
+    "relatedUrls": [
+        {
+            "label": "Customer Shop Example",
+            "url": "https://shop.transit-eccart.com/shops/nakai"
+        },
+        {
+            "label": "Owner Portal",
+            "url": "https://owner.transit-eccart.com/sign-in"
+        },
+        {
+            "label": "Admin Portal",
+            "url": "https://admin.transit-eccart.com/sign-in"
+        }
+    ],
+    "technologies": [
+        "Vue.js",
+        "JavaScript",
+        "CSS",
+        "REST API",
+        "Firebase Hosting"
+    ],
+    "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/maintenance.webp",
+    "images": [
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/eccart.webp",
+            "alt": "E-Commerce ECCart dashboard"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/eccart1.webp",
+            "alt": "E-Commerce ECCart product and checkout view"
+        }
+    ],
+    "date": "2022",
+    "role": "Frontend Developer",
+    "description": [
+        {
+            "type": "paragraph",
+            "content": "This project involved the maintenance and modernization of a legacy e-commerce platform that served multiple stakeholders, including admins, shop owners, and customers. The goal was to update the system to meet new business needs while ensuring reliability and scalability."
+        },
+        {
+            "type": "paragraph",
+            "content": "The system architecture separated responsibilities across different interfaces, making it easier to manage and scale the platform:"
+        },
+        {
+            "type": "list",
+            "items": [
+                {
+                    "text": "Admin interface for shop creation and management workflows. [Access here](https://admin.transit-eccart.com/sign-in)"
+                },
+                {
+                    "text": "Owner interface for updating product information and publishing shop pages. [Access here](https://owner.transit-eccart.com/sign-in)"
+                },
+                {
+                    "text": "Customer-facing shops with public URLs for browsing and checkout. Example shop: [Nakai](https://shop.transit-eccart.com/shops/nakai)"
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": "Key work included updating legacy code, refining UI, integrating updated REST APIs with Firebase, adding validation mechanisms, and developing new pages on both the admin and shop sides. Detailed documentation was prepared to guide future development and maintenance."
+        },
+        {
+            "type": "paragraph",
+            "content": "The project also involved challenges such as working with poorly documented legacy code, ensuring backward compatibility while introducing modern approaches, implementing new features without disrupting existing functionality, and meeting tight deadlines without compromising code quality."
+        },
+        {
+            "type": "paragraph",
+            "content": "Through careful planning and systematic refactoring, we were able to modernize the codebase, fix broken workflows, implement new features requested by the client, and improve the overall performance and user satisfaction. The project was successfully delivered on time and continues to be a reference for maintaining scalable e-commerce solutions."
+        }
+    ]
+}
