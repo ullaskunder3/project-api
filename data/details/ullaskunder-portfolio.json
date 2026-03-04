@@ -3,18 +3,15 @@
     "featured": true,
     "slug": "ullaskunder-portfolio",
     "title": "ullaskunder.tech: Personal Developer Portfolio",
-    "summary": "A thoughtfully crafted portfolio showcasing my developer journey, skills, and projects, featuring elegant design, dynamic content, and subtle micro-interactions.",
+    "summary": "A thoughtfully crafted, minimalist portfolio showcasing my developer journey. Redesigned with a strict focus on typography, pure readability, and a Golden Ratio layout flow to let the work speak for itself.",
     "achievements": [
-        "Designed and developed a fully responsive portfolio using Next.js App Router and TailwindCSS with a focus on minimalism and clarity.",
-        "Implemented dynamic routing for project details using file-based slugs and MDX rendering.",
-        "Integrated GitHub as a headless CMS for blog posts, fetched via custom API route using Octokit.",
-        "Created animated hero sections, interactive cards, and micro-interactions using GSAP Flip and Framer Motion.",
-        "Added support for dark mode and seamless page transitions through custom layout and navigation components.",
-        "Set up Nodemailer integration with Gmail for secure contact form delivery via serverless API route.",
-        "Incorporated SEO best practices including meta tags, OG images, dynamic sitemap, robots.txt, and structured data.",
-        "Developed a functional guestbook feature for community interaction using serverless functions.",
-        "Enabled RSS feed and feed.xml generation for automatic syndication and dev.to integration.",
-        "Optimized performance through static generation (SSG), lazy loading, and Lighthouse auditing."
+        "Redesigned the entire application interface to follow a strict minimal aesthetic, utilizing clean borders, deep #111 typography, and generous whitespace instead of heavy shadows and canvas noise.",
+        "Implemented a mathematical Golden Ratio (1:1.618) layout for the hero section, perfectly balancing the introductory typography with an interactive, responsive role diagram.",
+        "Engineered an interactive SVG Hero diagram that dynamically reorganizes its nodes based on viewport size (Top on mobile, Left on desktop) and drives the main page state via hover interactions.",
+        "Developed a custom glassmorphism 'cloud' scroll fade mask at the viewport base to provide a premium, organic reading experience.",
+        "Maintained high performance utilizing Next.js App Router, combining statically generated pages, dynamic MDX blog routing, and headless CMS integration via the GitHub API.",
+        "Set up Nodemailer integration with Gmail for secure contact form delivery via serverless API routes.",
+        "Incorporated SEO best practices including precise meta tags, OG images, dynamic sitemap, robots.txt, and comprehensive structured data."
     ],
     "websiteUrl": "https://ullaskunder.tech/",
     "technologies": [
@@ -22,7 +19,7 @@
         "TypeScript",
         "TailwindCSS",
         "Framer Motion",
-        "GSAP",
+        "SVG Geometry",
         "MDX",
         "GitHub API",
         "Vercel",
@@ -32,15 +29,15 @@
     "images": [
         {
             "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/ullaskunder-skill.webp",
-            "alt": "Homepage with animated hero"
+            "alt": "Homepage with Golden Ratio hero and interactive diagram"
         },
         {
             "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/ullaskunder-contact.webp",
-            "alt": "Projects section grid view"
+            "alt": "Minimalist Projects section list view"
         },
         {
             "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/ullaskunder-cool.webp",
-            "alt": "Contact form with Gmail integration"
+            "alt": "Clean, flat-design contact form"
         },
         {
             "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/ullaskunder-discuss-page.webp",
@@ -52,19 +49,19 @@
     "description": [
         {
             "type": "paragraph",
-            "content": "This portfolio was built to reflect both my personal aesthetics and technical capabilities. It serves as a living resume, highlighting my key projects, career journey, and current goals — particularly my aspiration to work in Japan 🇯🇵."
+            "content": "This iteration of my portfolio represents a major shift towards intentional minimalism. I wanted to strip away visual clutter—like heavy drop shadows and full-screen 3D canvas effects—to focus entirely on pure readability, content hierarchy, and typography."
         },
         {
             "type": "paragraph",
-            "content": "The site is fully responsive, with smooth animations and transitions powered by Framer Motion and GSAP Flip. All project content is statically generated for performance, while dynamic blog content is fetched from GitHub using a custom API layer and rendered as MDX."
+            "content": "A key design challenge was balancing the hero introductory section layout across both desktop and mobile environments. I solved this by implementing a strict Golden Ratio (61.8% to 38.2%) layout pattern. The biographical text sits comfortably in the larger golden block, while an interactive SVG role diagram is constrained exactly within the golden minor block."
         },
         {
             "type": "paragraph",
-            "content": "Additional features include a guestbook for user interaction, a secure contact form integrated via Nodemailer and Gmail, and full SEO setup including meta tags, OG images, sitemap, and robots.txt. A custom RSS feed and feed.xml are also generated for blog syndication and integration with dev.to."
+            "content": "The interactive diagram doesn't just look good; it acts as an elegant state driver. By utilizing custom geometry calculations, the nodes branch to perfectly fit the viewport constraints. Hovering over its icons instantly dynamically updates the main screen text in real-time, creating a cohesive, living interface without relying on messy overlapping popup labels."
         },
         {
             "type": "paragraph",
-            "content": "Overall, this project is a culmination of everything I’ve learned — from frontend polish to API design — and a canvas for experimenting with new technologies and systems."
+            "content": "Under the hood, the infrastructure remains a robust Next.js application, utilizing the GitHub API as a headless CMS for blog posts, natively parsing MDX, and maintaining peak Lighthouse performance scores alongside full SEO and syndication capabilities."
         }
     ]
 }
