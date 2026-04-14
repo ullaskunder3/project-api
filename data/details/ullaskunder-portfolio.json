@@ -17,6 +17,24 @@
         "Optimized performance through static generation (SSG), lazy loading, and Lighthouse auditing."
     ],
     "websiteUrl": "https://ullaskunder.tech/",
+    "iterations": [
+        {
+            "name": "v1 (Old 1)",
+            "url": "https://ullaskunder-o9zy8lkqe-ullaskunder3s-projects.vercel.app/"
+        },
+        {
+            "name": "v2 (Liquid Glass UI)",
+            "url": "https://ullaskunder-git-liquid-glass-ui-ullaskunder3s-projects.vercel.app/"
+        },
+        {
+            "name": "v3 (New Hero)",
+            "url": "https://ullaskunder-git-feature-new-hero-ullaskunder3s-projects.vercel.app/"
+        },
+        {
+            "name": "Current Version",
+            "url": "https://ullaskunder.tech/"
+        }
+    ],
     "technologies": [
         "Next.js",
         "TypeScript",
@@ -44,7 +62,7 @@
         },
         {
             "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/ullaskunder-discuss-page.webp",
-            "alt": "Guestbook feature for community discussions"
+            "alt": "Guestbook feature for community discussions (image from an older iteration)"
         }
     ],
     "date": "2024",
@@ -65,6 +83,10 @@
         {
             "type": "paragraph",
             "content": "Overall, this project is a culmination of everything I’ve learned — from frontend polish to API design — and a canvas for experimenting with new technologies and systems."
+        },
+        {
+            "type": "paragraph",
+            "content": "To showcase my perseverance and commitment to continuous improvement, you can explore the multiple iterations this portfolio has gone through over time. The development evolved from v1 to v3, each adding new design aesthetic and features, ultimately leading to the current version. The bottom image in the gallery reflects one of these earlier designs, highlighting my journey!"
         }
     ]
 }
