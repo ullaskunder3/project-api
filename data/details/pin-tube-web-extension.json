@@ -1,0 +1,82 @@
+{
+    "id": 10,
+    "featured": true,
+    "slug": "pin-tube-web-extension",
+    "title": "Pin-Tube: Minimalist YouTube Web Extension",
+    "summary": "A lightweight, privacy-first browser extension that completely overhauls the YouTube viewing experience. It natively injects a custom 'Pinned Videos' shelf into the homepage, removes distracting Shorts and tags, and allows you to seamlessly resume videos from the exact timestamp you left off.",
+    "achievements": [
+        "Engineered a dynamic, single-codebase build pipeline (Node.js/Terser) supporting both Chrome and Firefox (Manifest V3).",
+        "Developed custom vanilla JS DOM manipulation scripts to seamlessly inject a 'Pinned Videos' shelf directly into the native YouTube UI.",
+        "Implemented precise, sub-second timestamp saving to resume playback seamlessly.",
+        "Created a robust JSON state import/export functionality for cross-device synchronization without relying on cloud databases.",
+        "Eliminated doom-scrolling by algorithmically hiding the YouTube Shorts shelf, Shorts sidebar links, and keyword recommendation tags.",
+        "Successfully passed strict Mozilla Add-on automated validations with zero warnings by completely removing unsafe innerHTML usage and leveraging secure DOM APIs.",
+        "Designed a custom Pin/Unpin SVG icon that natively integrates with the YouTube video player controls.",
+        "Maintained 100% privacy by keeping all data local via `chrome.storage.local`."
+    ],
+    "websiteUrl": "https://www.xforbes.com/pin-tube",
+    "technologies": [
+        "Vanilla JavaScript (ES6+)",
+        "HTML5 / CSS3",
+        "Chrome Extension API (chrome.storage)",
+        "Firefox WebExtensions API",
+        "Manifest V3",
+        "Terser (Minification)",
+        "Node.js (Build Automation)",
+        "Git & GitHub Actions"
+    ],
+    "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/pin-tube-demo1.png",
+    "images": [
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/pin-tube-demo1.png",
+            "alt": "Pin-Tube custom homepage shelf with pinned videos"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/pin-tube-demo2.png",
+            "alt": "Pin-Tube native player integration and UI controls"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/pin-tube-demo3.png",
+            "alt": "Pin-Tube dashboard for managing and exporting saved videos"
+        }
+    ],
+    "date": "2026",
+    "role": "Creator & Lead Engineer",
+    "description": [
+        {
+            "type": "paragraph",
+            "content": "Pin-Tube was born out of a personal need to regain control over the YouTube homepage. The modern YouTube algorithm is designed to maximize watch time through hyper-addictive features like Shorts and keyword recommendation chips. Pin-Tube acts as a digital minimalist tool, stripping away these distractions to provide a clean, intentional browsing experience."
+        },
+        {
+            "type": "paragraph",
+            "content": "The core feature allows users to 'pin' any currently watching video or playlist directly to a custom, natively-styled shelf at the absolute top of their YouTube homepage. This shelf acts as a personal watch-later queue that remembers the exact timestamp where playback was stopped, effectively turning YouTube into a personalized, resume-friendly platform."
+        },
+        {
+            "type": "list",
+            "items": [
+                {
+                    "text": "Cross-Browser Architecture: Maintained a single vanilla JavaScript codebase that compiles into specialized artifacts for Chrome and Firefox using a custom Node.js build pipeline."
+                },
+                {
+                    "text": "Privacy-First Design: All data is stored strictly on the user's local machine (`chrome.storage.local`). Absolutely no telemetry, analytics, or external servers are used."
+                },
+                {
+                    "text": "State Portability: Users can export their entire pinned library as a lightweight JSON file and import it on any other device or browser, ensuring they never lose their data."
+                },
+                {
+                    "text": "Secure Execution: Entirely eliminated the use of unsafe HTML parsing (`innerHTML`) in favor of secure `document.createElementNS`, achieving a 100% security pass rate from Mozilla reviewers."
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": "A significant technical challenge was dynamically injecting the pinned shelf into YouTube's complex, Single-Page Application (SPA) architecture (Polymer framework). This required advanced DOM observation using `MutationObserver` to ensure the custom elements load reliably regardless of how the user navigates through the site."
+        },
+        {
+            "type": "paragraph",
+            "content": "Links: You can view the landing page at xforbes.com/pin-tube, download it from the Chrome Web Store, or view the open-source code on GitHub."
+        }
+    ],
+    "githubUrl": "https://github.com/ullaskunder3/pin-tube",
+    "chromeStoreUrl": "https://chromewebstore.google.com/detail/pin-tube/oehonkhbilmcmmpcnbpocpoomldofejd"
+}
