@@ -39,9 +39,9 @@
     },
     {
         "id": 3,
-        "title": "React Native Social Platform for Travelers",
-        "slug": "react-native-social-platform",
-        "summary": "A cross-platform mobile application connecting travelers worldwide, featuring modern UI and interactive social features.",
+        "title": "Moto Fellow: Japanese Motorcyclist Social Network",
+        "slug": "motofellow-react-native-social-platform",
+        "summary": "A cross-platform social network where motorcyclists from all over Japan gather to instantly share photos, participate in discussion rooms, and post daily maintenance blogs.",
         "date": "2022",
         "featured": true,
         "coverImage": "https://cdn.jsdelivr.net/gh/ullaskunder3/project-api@main/data/images/projects/motofello-mockup.webp",

@@ -1,9 +1,9 @@
 {
     "id": 3,
     "featured": true,
-    "slug": "react-native-social-platform",
-    "title": "React Native Social Platform for Travelers",
-    "summary": "A cross-platform mobile application connecting travelers worldwide, featuring modern UI and interactive social features.",
+    "slug": "motofellow-react-native-social-platform",
+    "title": "Moto Fellow: Japanese Motorcyclist Social Network",
+    "summary": "A cross-platform social network where motorcyclists from all over Japan gather to instantly share photos, participate in discussion rooms, and post daily maintenance blogs.",
     "achievements": [
         "Built a small social platform for travelers, deploying it on both the Play Store and App Store (with senior guidance).",
         "Updated the UI to a modern approach, consolidating old profile pages into a single, clean version for both iOS and Android.",
@@ -31,12 +31,12 @@
     ],
     "date": "2022",
     "role": "Mobile Developer",
-    "websiteUrl": "https://play.google.com/store/apps/details?id=com.motofellow.app&hl=en_IN",
+    "websiteUrl": "https://awaji-moto.com/",
     "websiteUrlIos": "https://apps.apple.com/jp/app/motofellow/id6448129606?l=en-US",
     "description": [
         {
             "type": "paragraph",
-            "content": "This React Native application serves as a social platform specifically designed for travelers to connect, share experiences, and discover new destinations. The app was successfully deployed to both the Play Store and App Store."
+            "content": "Moto Fellow is a React Native social platform specifically designed for motorcyclists across Japan to connect, share their rides, and discuss their shared passion. The application provides a dedicated space for motorcycle enthusiasts."
         },
         {
             "type": "paragraph",
@@ -69,6 +69,10 @@
         {
             "type": "paragraph",
             "content": "The custom keyboard toolbar component was particularly challenging to implement due to the differences in keyboard behavior between iOS and Android. The solution required careful consideration of platform-specific behaviors and extensive testing to ensure consistent functionality."
+        },
+        {
+            "type": "paragraph",
+            "content": "Note: The Android version was originally deployed to the Google Play Store but is now distributed independently via APK platforms (like MI9) under the package name com.motofellow.app."
         }
     ]
 }
